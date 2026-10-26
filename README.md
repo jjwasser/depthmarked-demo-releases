@@ -6,7 +6,7 @@ A free Windows demo playtest from Reckoning Studios, with offline solo and limit
 
 ## Download and start
 
-**[Download the Windows demo ZIP — 1.22 GB](https://github.com/jjwasser/depthmarked-demo-releases/releases/download/v1.0.0-beta.demo.6/Depthmarked-Demo-1.0.0-beta.demo.6-win-x64.zip)**
+**[Download the Windows demo ZIP — about 1.21 GB](https://github.com/jjwasser/depthmarked-demo-releases/releases/download/v1.0.0-beta.demo.6/Depthmarked-Demo-1.0.0-beta.demo.6-win-x64.zip)**
 
 1. Allow about **4 GB of free space** for the download and extraction. Hardware requirements are still being measured in this pilot.
 2. Extract the **entire ZIP** into a new folder. Keep `Content` beside the executable.

@@ -6,7 +6,7 @@ Thank you for trying Depthmarked: The Hunt Below. Anyone can join this limited p
 
 ## 1. Install a fresh copy
 
-- Use the [Windows demo ZIP](https://github.com/jjwasser/depthmarked-demo-releases/releases/download/v1.0.0-beta.demo.6/Depthmarked-Demo-1.0.0-beta.demo.6-win-x64.zip), about 1.22 GB. Allow about 4 GB free for the ZIP and extracted files.
+- Use the [Windows demo ZIP](https://github.com/jjwasser/depthmarked-demo-releases/releases/download/v1.0.0-beta.demo.6/Depthmarked-Demo-1.0.0-beta.demo.6-win-x64.zip), about 1.21 GB. Allow about 4 GB free for the ZIP and extracted files.
 - Extract the entire archive to a new folder. Do not merge it into a full-game installation or run directly from inside the ZIP.
 - Open `Depthmarked.Game.exe`. The runtime is included; developer tools are not required.
 - Choose **Solo Demo → New Adventure**. Sign-in and the updater are not needed for this test.

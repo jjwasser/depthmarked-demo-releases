@@ -13,6 +13,6 @@
 - A failed model or material load blocks dungeon entry and asks you to re-extract/restart. Report the visible message and whether the entire ZIP extracted successfully.
 - Only the opening dungeon is included. Completion does not unlock another dungeon or settlement. Full-game saves and accounts do not transfer to this demo.
 - A clean-PC human first-dungeon playthrough, save/resume, guardian completion, and replay remain pilot acceptance tasks. Automated checks and native captures have passed on the development machine.
-- Movement improvements being investigated separately are not included merely because they passed an experimental test. Online release acceptance will use a matched demo client and server.
+- Movement and reconnect feel still need human playtest feedback. Report your role, any interruption, and whether you could resume the same expedition.
 
 For a blocker, use the [public bug form](https://github.com/jjwasser/depthmarked-demo-releases/issues/new?template=bug-report.yml). For private feedback or no GitHub account, reply to your invitation using the plain-text feedback sheet. Keep personal information and raw diagnostics out of public issues.

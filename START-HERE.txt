@@ -1,0 +1,42 @@
+DEPTHMARKED: THE HUNT BELOW - OPEN SOLO PLAYTEST
+Reckoning Studios | 1.0.0-beta.demo.5 | Windows x64
+Anyone can download and play. No invitation or tester code is required.
+
+Download and instructions:
+https://github.com/jjwasser/depthmarked-demo-releases
+
+GET STARTED
+1. Download Depthmarked-Demo-1.0.0-beta.demo.5-win-x64.zip (about 1.22 GB).
+   Allow about 4 GB free for the ZIP and extraction.
+2. Extract the WHOLE ZIP into a new folder. Keep Content beside the executable.
+3. Open Depthmarked.Game.exe, then choose SOLO DEMO -> NEW ADVENTURE.
+   No game account, sign-in, updater check, SDK, or developer tools are needed.
+4. Wait for all six heroes, browse them, and choose one.
+5. Wait for PREPARING THE DUNGEON to finish before play begins.
+
+The first dungeon remains playable offline without an expiry date.
+Online Hunted, registration, online reports, and the update feed are not active.
+Fictional horror gameplay includes encounters and sudden sounds.
+
+WHAT TO TRY
+- A fresh download/extraction/launch and first dungeon entry.
+- All six hero previews; note approximate hero/dungeon loading times.
+- Normal movement, combat, light, inventory, and on-screen controls.
+- Save to a new slot and resume, if available.
+- Guardian, demo completion, and replay, if you have time.
+A first 20-30 minute session is useful; unfinished attempts also help.
+
+OPTIONAL FEEDBACK
+Pilot form:
+https://github.com/jjwasser/depthmarked-demo-releases/issues/new?template=pilot-feedback.yml
+Bug/blocker form:
+https://github.com/jjwasser/depthmarked-demo-releases/issues/new?template=bug-report.yml
+
+GitHub account required for these forms. Your GitHub username and feedback are
+public. Do not post email addresses, passwords, tokens, raw logs, personal
+screenshots, or private paths. Windows version and GPU model are optional.
+For private feedback or no GitHub account, fill PILOT-FEEDBACK.txt and reply to
+the person who invited you. Use your assigned tester code if you have one.
+
+Download the named game ZIP, not GitHub's automatically generated Source code ZIP.
+Detailed guide and known issues are linked on the repository page.

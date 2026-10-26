@@ -1,0 +1,16 @@
+{
+  "name": "Demo installation problem or bug",
+  "description": "Report a blocked download/launch, crash, save issue, or gameplay blocker.",
+  "title": "[Demo bug] ",
+  "labels": ["bug"],
+  "body": [
+    {"type": "markdown", "attributes": {"value": "This is a PUBLIC issue under your GitHub username. Do not attach passwords, tokens, email addresses, raw logs, personal screenshots, or private file paths. Online Hunted, registration and the public updater feed are not active in this solo playtest. Feedback remains useful if you could not launch the game."}},
+    {"type": "input", "id": "build", "attributes": {"label": "Demo version", "value": "1.0.0-beta.demo.5"}, "validations": {"required": true}},
+    {"type": "input", "id": "tester", "attributes": {"label": "Tester code (optional)", "description": "Leave blank if you were not assigned a code. Do not enter your name or email."}},
+    {"type": "dropdown", "id": "area", "attributes": {"label": "Where did the problem happen?", "options": ["Download or extraction", "Starting the game", "Hero selection", "Preparing the dungeon", "Gameplay or guardian", "Save or resume", "Completion or replay", "Other"]}, "validations": {"required": true}},
+    {"type": "textarea", "id": "problem", "attributes": {"label": "What happened?", "description": "Describe the problem and any exact on-screen message. Say whether it blocked playing or lost progress. Omit personal paths and account details."}, "validations": {"required": true}},
+    {"type": "textarea", "id": "steps", "attributes": {"label": "Steps and expected result", "description": "What did you do just before the problem, what should have happened, and does it happen again? If unknown, say so."}, "validations": {"required": true}},
+    {"type": "textarea", "id": "hardware", "attributes": {"label": "Windows version, GPU and loading time (optional)", "description": "Include only what helps reproduce the problem. Leave out PC names, serial numbers, IP addresses and private paths."}},
+    {"type": "checkboxes", "id": "public_report", "attributes": {"label": "Public report", "options": [{"label": "I understand my GitHub username and this report will be public, and I have left out private account information and raw diagnostics.", "required": true}]}}
+  ]
+}

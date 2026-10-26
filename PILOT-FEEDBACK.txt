@@ -1,0 +1,43 @@
+DEPTHMARKED OPTIONAL OPEN PLAYTEST FEEDBACK - 1.0.0-beta.demo.5
+
+Fill what you can, save this file, and reply to the person who invited you, if any.
+No GitHub account is required for that route. You can instead use the public
+GitHub feedback form linked in START-HERE.txt if you prefer. Anyone can use that
+form with a GitHub account; a tester code is not required.
+Do not include passwords, account tokens, raw logs, or private file paths.
+
+Tester code from your invitation (optional):
+Build tested (default: 1.0.0-beta.demo.5):
+
+FIRST PLAY / INSTALL
+Was this your first time playing Depthmarked? Yes / No
+Download and extraction worked? Yes / No / Not attempted
+Game launched? Yes / No / Not attempted
+Reached the dungeon? Yes / No
+If something stopped you, what exact message or behavior appeared?
+
+HERO / LOADING
+Hero chosen:
+Did all six hero models appear when browsing? Yes / No / Not checked
+Approximate time before the hero browser:
+Approximate Preparing the dungeon loading time:
+Any blank screen, stuck progress, or unexpected pause?
+
+SESSION
+Approximate time played:
+What made you tense?
+Where were you confused?
+What stopped you playing, or what most needs fixing?
+
+OPTIONAL FOLLOW-UP CHECKS
+Save and resume: Worked / Failed / Not attempted
+Guardian reached: Yes / No
+Demo completion reached: Yes / No
+Replay: Worked / Failed / Not attempted
+
+OPTIONAL TROUBLESHOOTING
+Windows version:
+GPU model:
+Steps to reproduce a problem (omit names, personal paths, and account details):
+
+Anything else you want Reckoning Studios to know?

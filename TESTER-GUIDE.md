@@ -24,6 +24,22 @@ Loading times depend on your machine. Please report what you observe rather than
 
 ## 3. Play normally
 
+Default keyboard/mouse controls are below; existing profiles may have customized bindings. The on-screen prompts and in-game settings show your current controls.
+
+| Action | Default control |
+| --- | --- |
+| Move | W / A / S / D |
+| Look | Mouse |
+| Attack | Left mouse button |
+| Defend with your defensive equipment | Right mouse button |
+| Sprint | Left Shift |
+| Pick up an item | G |
+| Inventory / pack | I |
+| Quick slots | 1 / 2 / 3 / 4 |
+| Settings and save options | Escape |
+
+For a controller, use the left stick to move, right stick to look, right trigger to attack, and left trigger to defend. Follow the displayed button prompts for inventory, items and menus; bindings can be changed in settings.
+
 - Follow the on-screen controls and use the settings/controls help as needed.
 - Try movement, looking around, attacking, defending, using a light, and inspecting items.
 - Tell us where your objective or next action becomes unclear, which encounters feel tense, and anything that feels unfair or prevents progress.

@@ -2,17 +2,136 @@
   "name": "Open demo playtest feedback",
   "description": "Tell us about your first session, loading, and what needs improving.",
   "title": "[Playtest] ",
-  "labels": ["pilot-feedback"],
+  "labels": [
+    "pilot-feedback"
+  ],
   "body": [
-    {"type": "markdown", "attributes": {"value": "Thanks for trying Depthmarked! Anyone can join the solo playtest. Feedback is optional. This form creates a PUBLIC GitHub issue under your GitHub username. Do not include email addresses, passwords, tokens, raw logs, personal screenshots, or private file paths. Online Hunted and account registration are not active in this build."}},
-    {"type": "input", "id": "build", "attributes": {"label": "Demo version", "value": "1.0.0-beta.demo.5"}, "validations": {"required": true}},
-    {"type": "input", "id": "tester", "attributes": {"label": "Tester code (optional)", "description": "Use your invitation code if you have one; otherwise leave blank. A code is not required. Do not enter your real name or email.", "placeholder": "P01, or leave blank"}},
-    {"type": "dropdown", "id": "first_play", "attributes": {"label": "Was this your first time playing Depthmarked?", "options": ["Yes, this was my first play", "No, I had played before", "I could not start playing"]}, "validations": {"required": true}},
-    {"type": "dropdown", "id": "start_result", "attributes": {"label": "How far did you get?", "options": ["Reached the dungeon and played", "Reached hero selection but not the dungeon", "Launched the game but could not reach hero selection", "Download, extraction, or launch was blocked"]}, "validations": {"required": true}},
-    {"type": "textarea", "id": "experience", "attributes": {"label": "Your experience", "description": "What made you tense? Where were you confused? What stopped you playing or most needs fixing? A short reply is useful, including if you could not start."}, "validations": {"required": true}},
-    {"type": "textarea", "id": "hero_loading", "attributes": {"label": "Hero and loading (optional)", "description": "Which hero did you choose? Did all six previews appear? Approximately how long did the hero and dungeon loading screens take? Any blank screen or stuck progress?"}},
-    {"type": "textarea", "id": "follow_up", "attributes": {"label": "Session and follow-up checks (optional)", "description": "Approximate time played; whether save/resume, the guardian, completion and replay worked, where attempted. Not attempted is a useful answer."}},
-    {"type": "textarea", "id": "hardware", "attributes": {"label": "Windows version and GPU (optional)", "description": "Windows version and GPU model only. Leave out PC names, serial numbers, IP addresses and personal file paths."}},
-    {"type": "checkboxes", "id": "public_feedback", "attributes": {"label": "Public feedback", "options": [{"label": "I understand my GitHub username and this feedback will be public, and I have left out private account information and raw diagnostics.", "required": true}]}}
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Thanks for trying Depthmarked! Anyone can join the limited playtest. Feedback is optional. This form creates a PUBLIC GitHub issue under your GitHub username. Do not include email addresses, passwords, tokens, raw logs, personal screenshots, or private file paths. Guest Hunted is available in beta.demo.6, subject to service capacity. No email registration is needed."
+      }
+    },
+    {
+      "type": "input",
+      "id": "build",
+      "attributes": {
+        "label": "Demo version",
+        "value": "1.0.0-beta.demo.6"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "tester",
+      "attributes": {
+        "label": "Tester code (optional)",
+        "description": "Use your invitation code if you have one; otherwise leave blank. A code is not required. Do not enter your real name or email.",
+        "placeholder": "P01, or leave blank"
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "first_play",
+      "attributes": {
+        "label": "Was this your first time playing Depthmarked?",
+        "options": [
+          "Yes, this was my first play",
+          "No, I had played before",
+          "I could not start playing"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "start_result",
+      "attributes": {
+        "label": "How far did you get?",
+        "options": [
+          "Reached the dungeon and played",
+          "Reached hero selection but not the dungeon",
+          "Launched the game but could not reach hero selection",
+          "Download, extraction, or launch was blocked"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "experience",
+      "attributes": {
+        "label": "Your experience",
+        "description": "What made you tense? Where were you confused? What stopped you playing or most needs fixing? A short reply is useful, including if you could not start."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "hero_loading",
+      "attributes": {
+        "label": "Hero and loading (optional)",
+        "description": "Which hero did you choose? Did all six previews appear? Approximately how long did the hero and dungeon loading screens take? Any blank screen or stuck progress?"
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "follow_up",
+      "attributes": {
+        "label": "Session and follow-up checks (optional)",
+        "description": "Approximate time played; whether save/resume, the guardian, completion and replay worked, where attempted. Not attempted is a useful answer."
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "hardware",
+      "attributes": {
+        "label": "Windows version and GPU (optional)",
+        "description": "Windows version and GPU model only. Leave out PC names, serial numbers, IP addresses and personal file paths."
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "role",
+      "attributes": {
+        "label": "How did you play? (optional)",
+        "options": [
+          "Solo only",
+          "Hunted adventurer",
+          "Dungeon Master",
+          "Both Hunted roles",
+          "Could not enter online"
+        ]
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "online",
+      "attributes": {
+        "label": "Guest online experience (optional)",
+        "description": "Did guest entry/resumption work? Approximate lobby wait, movement/combat feel, and disconnect/reconnect issues. Do not include room codes, guest credentials, tokens or IP addresses."
+      }
+    },
+    {
+      "type": "checkboxes",
+      "id": "public_feedback",
+      "attributes": {
+        "label": "Public feedback",
+        "options": [
+          {
+            "label": "I understand my GitHub username and this feedback will be public, and I have left out private account information and raw diagnostics.",
+            "required": true
+          }
+        ]
+      }
+    }
   ]
 }

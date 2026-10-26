@@ -1,12 +1,12 @@
 # Open demo tester guide
 
-**Build: 1.0.0-beta.demo.5 · Windows x64 · solo pilot**
+**Build: 1.0.0-beta.demo.6 · Windows x64 · solo and guest Hunted pilot**
 
-Thank you for trying Depthmarked: The Hunt Below. Anyone can join this solo playtest; an invitation or tester code is not required. If you were given a code, you can include it in feedback. A first session of roughly 20–30 minutes is useful; continue toward the guardian and demo completion if you have time.
+Thank you for trying Depthmarked: The Hunt Below. Anyone can join this limited playtest; an invitation or tester code is not required. If you were given a code, you can include it in feedback. A first session of roughly 20–30 minutes is useful; continue toward the guardian and demo completion if you have time.
 
 ## 1. Install a fresh copy
 
-- Use the [Windows demo ZIP](https://github.com/jjwasser/depthmarked-demo-releases/releases/download/v1.0.0-beta.demo.5/Depthmarked-Demo-1.0.0-beta.demo.5-win-x64.zip), about 1.22 GB. Allow about 4 GB free for the ZIP and extracted files.
+- Use the [Windows demo ZIP](https://github.com/jjwasser/depthmarked-demo-releases/releases/download/v1.0.0-beta.demo.6/Depthmarked-Demo-1.0.0-beta.demo.6-win-x64.zip), about 1.22 GB. Allow about 4 GB free for the ZIP and extracted files.
 - Extract the entire archive to a new folder. Do not merge it into a full-game installation or run directly from inside the ZIP.
 - Open `Depthmarked.Game.exe`. The runtime is included; developer tools are not required.
 - Choose **Solo Demo → New Adventure**. Sign-in and the updater are not needed for this test.
@@ -55,7 +55,7 @@ Use a new save slot if saving is available. Return to the menu and choose **Solo
 
 These GitHub forms require a GitHub account and create public issues under your GitHub username. Include your tester code and build number, not your real name or email. Do not attach raw logs, account details, personal screenshots, or private file paths.
 
-Without a GitHub account, or for a private reply, fill in [PILOT-FEEDBACK.txt](https://github.com/jjwasser/depthmarked-demo-releases/releases/download/v1.0.0-beta.demo.5/PILOT-FEEDBACK.txt) and reply to your invitation.
+Without a GitHub account, or for a private reply, fill in [PILOT-FEEDBACK.txt](https://github.com/jjwasser/depthmarked-demo-releases/releases/download/v1.0.0-beta.demo.6/PILOT-FEEDBACK.txt) and reply to your invitation.
 
 Please answer:
 
@@ -64,8 +64,18 @@ Please answer:
 3. What made you tense, where were you confused, and what stopped you playing?
 4. Did save/resume, the guardian, completion, and replay work, where attempted?
 
+## 6. Try guest online Hunted
+
+1. Use version **beta.demo.6**. Choose the online/Hunted option from the adventure menu, then **Play online as guest**. No email or password is required.
+2. Try matchmaking, or have one friend create a room and share its code privately. Select adventurer or Dungeon Master; Hunted starts with at least two adventurers and one connected human Master, up to three adventurers plus a Master.
+3. Wait for every player's loading stage to finish. The lobby may be waiting for an adventurer or Master. The initial service has two rooms/eight players; arrange a session with friends if no match is available.
+4. Adventurers use the displayed movement/combat controls. Masters use the displayed Master panel, permitted creature choices and Scry/Listen tools. Both roles stay in the first dungeon.
+5. Report your role, whether guest entry/resumption worked, lobby waiting time, movement/combat feel and any disconnect/reconnect. Keep room codes, guest IDs, secrets and tokens out of public feedback.
+
+Guest access is retained in Windows Credential Manager for this Windows user and device. Removing it may lose online access/progress. Recovery/account linking is not available. If guest creation is throttled, capacity is full, or service is unavailable, choose **Play offline** (F4 / Y). No account is required for solo.
+
 ## Pilot availability
 
-This is the **offline solo** pilot. Online Hunted, registration, online report submission, and the public update feed are not active. The first dungeon remains playable offline without an expiry date. [Known issues](KNOWN-ISSUES.md) lists the current limits.
+The pilot offers offline solo and limited guest online Hunted. Online report submission and the public update feed are not active. Online availability depends on capacity and the shared monthly bandwidth guard. The first dungeon remains playable offline without an expiry date. [Known issues](KNOWN-ISSUES.md) lists the current limits.
 
 Fresh downloads on other Windows PCs are part of this open playtest. Please report installation, loading and first-entry problems even if you cannot continue. Automated checks do not replace those human acceptance results.

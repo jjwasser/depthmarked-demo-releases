@@ -1,8 +1,13 @@
 # Known issues and pilot limits
 
-**1.0.0-beta.demo.5 · open solo playtest**
+**1.0.0-beta.demo.6 · open solo and guest Hunted playtest**
 
-- Online Hunted, account registration, online report submission, and the public update feed are not active. Use `Depthmarked.Game.exe` and **Solo Demo**.
+- Use beta.demo.6 for guest Hunted; older solo builds do not have the guest-entry screen. Use `Depthmarked.Game.exe`. Email registration is not required.
+- Online is limited to two rooms/eight players. Matches need two or three adventurers and one human Master; there may be no immediate match. Disconnected expedition slots may remain reserved briefly.
+- Guest identity is retained per Windows user/device in Credential Manager. Deleting it can lose access/progress; recovery and account linking are not implemented.
+- New guests are rate limited. Keep your existing credential and retry resumption later if service/capacity is unavailable. Offline solo remains available.
+- The shared bandwidth guard can pause online hosting before the monthly host allowance is exceeded. No permanent online availability is promised.
+- Online report submission and the public update feed are not active; use the optional public feedback form.
 - The optional updater may report that the update feed is unavailable. Offline play is available without checking updates.
 - The game preloads the complete hero roster and first-dungeon package. Initial loading can take time; minimum hardware requirements and loading times across different PCs are being measured in this pilot.
 - A failed model or material load blocks dungeon entry and asks you to re-extract/restart. Report the visible message and whether the entire ZIP extracted successfully.

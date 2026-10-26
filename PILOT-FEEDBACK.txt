@@ -1,4 +1,4 @@
-DEPTHMARKED OPTIONAL OPEN PLAYTEST FEEDBACK - 1.0.0-beta.demo.5
+DEPTHMARKED OPTIONAL OPEN PLAYTEST FEEDBACK - 1.0.0-beta.demo.6
 
 Fill what you can, save this file, and reply to the person who invited you, if any.
 No GitHub account is required for that route. You can instead use the public
@@ -7,7 +7,7 @@ form with a GitHub account; a tester code is not required.
 Do not include passwords, account tokens, raw logs, or private file paths.
 
 Tester code from your invitation (optional):
-Build tested (default: 1.0.0-beta.demo.5):
+Build tested (default: 1.0.0-beta.demo.6):
 
 FIRST PLAY / INSTALL
 Was this your first time playing Depthmarked? Yes / No
@@ -41,3 +41,5 @@ GPU model:
 Steps to reproduce a problem (omit names, personal paths, and account details):
 
 Anything else you want Reckoning Studios to know?
+
+ONLINE (optional): Role played; did guest entry/resumption work? Lobby wait, movement/combat feel, disconnect/reconnect issues? Do not include guest credentials, tokens or room codes.

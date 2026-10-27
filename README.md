@@ -29,7 +29,7 @@ Download the ZIP named **Depthmarked-Demo-1.0.0-beta.demo.6-win-x64.zip**. GitHu
 
 Use **beta.demo.6** for online play. From the adventure menu choose the online/Hunted option, then **Play online as guest**. No email, password or purchase is required. Windows Credential Manager retains the server-issued demo identity and secret for this Windows user. Removing that credential can lose online access and progress; recovery and account linking are not available yet.
 
-Hunted needs **two or three adventurers and one connected human Dungeon Master**. Choose either role, create/join a room with friends, or try matchmaking. The pilot has **two rooms and at most eight connected players**. A lobby may be waiting for the other role; an immediate match is not promised. Online play has the same first-dungeon boundary as solo. It does not join full-game rooms or use full-game accounts.
+Hunted needs **two or three adventurers and one connected human Dungeon Master**. Choose either role, create/join a room with friends, or try matchmaking. The temporary rollout has **eight rooms and at most 32 connected players**, including Dungeon Masters. The existing beta.demo.6 download remains compatible. A lobby may be waiting for the other role; an immediate match is not promised. Online play has the same first-dungeon boundary as solo. It does not join full-game rooms or use full-game accounts.
 
 If the service is full or unavailable, select **Play offline** (F4 / controller Y). Offline solo remains playable without expiry. Online availability depends on capacity and the shared monthly bandwidth guard. Guest creation is limited to prevent abuse; resuming a saved guest avoids creating another account. Disconnected expedition slots may be reserved briefly for reconnect.
 

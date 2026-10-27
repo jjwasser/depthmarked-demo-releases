@@ -35,7 +35,7 @@ If the service is full or unavailable, select **Play offline** (F4 / controller 
 
 Online report submission and automatic updates are not active. Use the feedback links below and download a new version from GitHub when announced.
 
-This is an **open playtest**: anyone can download and try the limited demo. Our first goal is feedback from five players, followed by improvements and recruitment toward 100 first plays. Horror encounters and sudden sounds are present; bugs and rough edges are expected.
+This is an **open playtest**: anyone can download and try the limited demo. We're recruiting 100 people to try the free demo. You can start now, play offline solo or arrange a guest Hunted group, and send optional feedback after your first session. Horror encounters and sudden sounds are present; bugs and rough edges are expected.
 
 ## Give optional feedback
 

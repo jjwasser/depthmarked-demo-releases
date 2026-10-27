@@ -68,7 +68,7 @@ Please answer:
 
 1. Use version **beta.demo.6**. Choose the online/Hunted option from the adventure menu, then **Play online as guest**. No email or password is required.
 2. Try matchmaking, or have one friend create a room and share its code privately. Select adventurer or Dungeon Master; Hunted starts with at least two adventurers and one connected human Master, up to three adventurers plus a Master.
-3. Wait for every player's loading stage to finish. The lobby may be waiting for an adventurer or Master. The initial service has two rooms/eight players; arrange a session with friends if no match is available.
+3. Wait for every player's loading stage to finish. The lobby may be waiting for an adventurer or Master. The temporary service has eight rooms/32 connected players, including Dungeon Masters; arrange a session with friends if no match is available.
 4. Adventurers use the displayed movement/combat controls. Masters use the displayed Master panel, permitted creature choices and Scry/Listen tools. Both roles stay in the first dungeon.
 5. Report your role, whether guest entry/resumption worked, lobby waiting time, movement/combat feel and any disconnect/reconnect. Keep room codes, guest IDs, secrets and tokens out of public feedback.
 
